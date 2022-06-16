@@ -4,6 +4,7 @@
 
 }
 
+
 .logo {
     width:23%;
     padding:1%;
@@ -21,7 +22,7 @@ ul {
 }
 
 .heroimg {
-    height:600px;
+    height:599px;
     padding:25px;
     width:500px;
     margin:0 auto;
@@ -29,8 +30,8 @@ ul {
 }
 
 footer {
-    background-color: #373738;
-    padding: /*using this to center footer navigation*/;
+    background-color: #3475f8;
+    
 }
 
 footer ul  {
